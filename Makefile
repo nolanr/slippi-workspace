@@ -1,4 +1,4 @@
-USE_DOCKER := $(or ${TERRA_USE_DOCKER},${TERRA_USE_DOCKER},true)
+
 BUILD=docker
 ARCH=amd64
 CONFIG=
